@@ -1,1 +1,97 @@
+CONCERNS OF CUSTOMERS WHILE PURCHASING AN AUTONOMOUS CAR
 
+<!-- wp:paragraph -->
+<p>A qualitative study on<a href="https://en.wikipedia.org/wiki/Self-driving_car"> Autonomous Car</a> is done by collecting a sample of&nbsp; respondents (using Slovin’s Formula) online through Instagram in which&nbsp; main variables are considered, out of which some are reflecting variables (i.e.Concerns and PassTime )and rest describes profile of the respondents (i.e. Age, Brand of Phone and Country).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The variable Concerns or Purchasing Question describes the queries of customers while purchasing an autonomous car. In other words, it tells us the factors for which customers would be worried before purchasing an autonomous car.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this study, Concerns of Customers are analysed. For this, a question related to Concerns is added to the <a href="https://en.wikipedia.org/wiki/Questionnaire">questionnaire</a> and collected responses from respondents from different regions and of different age groups. After this, responses are coded into some important subvariables for Concerns. Then the count or frequency for each category is calculated and tabulated for further analysis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Nominal Scale is used for this study which leads us to the implication of some statistical tools like Percentage Analysis and <a href="https://en.wikipedia.org/wiki/Chi-squared_test">Chi Square tests</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For Descriptive Statistics, Percentage Analysis is done in which the counts for each category is converted into percentages using&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%=(x/total counts)*100</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;where x indicates&nbsp; count for any category.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then Different levels of graphs are constructed based on this percentages(i.e. Level 1, Level 2 and Level 3 graphs) for detailed study of each subvariable of every variable. Reliability is calculated for each graph and only reliable graphs are considered for preparing the report.&nbsp;&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;Reliability is calculated as</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R=R(V)*R(SV/V)*R(SV1/SV) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [For Level 3 Graph]</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>where V is for variable i.e. Concern</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SV is for subvariables i.e. Safety(say)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SV1 is for rest variables under safety ie. Iphone Users who are concerned about Safety(say)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And individual Reliabilities can be calculated with the help of Slovin's Formula.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For Inferential Statistics,two applications of <a href="https://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test">Chi Square test</a> is applied i.e.<a href="https://en.wikipedia.org/wiki/Goodness_of_fit"> Goodness of fit</a> and Chi Square for Independence which enables us to find whether there is any relation between variables or subvariables. Also Goodness of Fit suggested that the Variables are related to their own subvariables.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>LEVEL 1 GRAPH FOR CONCERNS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://lh5.googleusercontent.com/MwWPRWQpmKjhZc-cORPdv6sFBmOWsTKvAKVh-WC_I-wxmxKwNE_Qf0t3lxSMkMoMKw485FcLfNVLK2iXZfUiHXdSz7syfiwKCK91sFVFUImaW8TX3aiZg-H6D-Cf2ZiuH29Nxl3C" alt="" title="Chart"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Before constructing each graph, different coding and legends are provided to each sub variable of every variable.And accordingly coding is done for each graph.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The above graph is a Level 1 graph for Concerns which explains what individuals are most concerned about&nbsp; while they are going to purchase an&nbsp; autonomous car.The % of travellers with&nbsp; their concern while purchasing is shown.For instance, nearly 50% of travellers are questioned about safety.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For further explanation, out of total responses mostly people are concerned about Safety and 14.21%&nbsp; persons are concerned about Driving. And there are 5.26% respondents who have responded no comments as their concerns and also some persons are questioned about other concerns.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Briefly, this graph can tell us what percentage of respondents are concerned about which concern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>RESULTS FROM CHI SQUARE TEST</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Result from Goodness of Fit indicates that Concerns are related to its subvariables i.e they are not equi-frequently.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also Chi Square Test For Independence suggests that Concerns are dependent on age groups of respondents and independent of all other variables.</p>
+<!-- /wp:paragraph -->
